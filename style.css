@@ -1,0 +1,11 @@
+.cards-personagens
+{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.cardImg {
+
+    margin-top: 10px;
+}
